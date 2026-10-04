@@ -1,0 +1,35 @@
+RELATÓRIO EXECUTIVO - INTELIGÊNCIA DE CLIENTES
+============================================================
+
+1. VISÃO GERAL
+------------------------------------------------------------
+Clientes analisados: 48,631
+Clientes ativos: 17,765 (36.53%)
+Clientes em risco de churn: 11,544 (23.74%)
+Clientes em churn: 19,322 (39.73%)
+Clientes em situação de risco: 30,866 (63.47%)
+
+2. VALOR FINANCEIRO ASSOCIADO AO RISCO
+------------------------------------------------------------
+Valor histórico dos clientes em churn: R$ 204,431,656.69
+Valor histórico dos clientes em risco: R$ 166,590,924.42
+
+3. CLIENTES DE ALTO VALOR EM RISCO
+------------------------------------------------------------
+Cliente 48684 | 115 dias sem comprar | 10 pedidos | R$ 62,604.96
+Cliente 28901 | 104 dias sem comprar | 9 pedidos | R$ 59,116.40
+Cliente 40084 | 116 dias sem comprar | 8 pedidos | R$ 55,128.16
+Cliente 27810 | 90 dias sem comprar | 9 pedidos | R$ 55,071.96
+Cliente 36283 | 168 dias sem comprar | 8 pedidos | R$ 53,946.26
+Cliente 10323 | 136 dias sem comprar | 10 pedidos | R$ 53,828.18
+Cliente 6419 | 100 dias sem comprar | 10 pedidos | R$ 53,795.57
+Cliente 48077 | 128 dias sem comprar | 10 pedidos | R$ 53,235.33
+Cliente 49923 | 125 dias sem comprar | 8 pedidos | R$ 52,539.02
+Cliente 17084 | 152 dias sem comprar | 9 pedidos | R$ 50,443.96
+
+4. RECOMENDAÇÕES DE NEGÓCIO
+------------------------------------------------------------
+1. Priorizar clientes de alto valor classificados como Churn ou Risco de Churn.
+2. Criar campanhas de reativação para clientes em risco.
+3. Criar ações de retenção para clientes ativos com alto valor histórico.
+4. Monitorar mensalmente a evolução das taxas de Churn e Risco de Churn.
